@@ -10,7 +10,7 @@ In the modern banking landscape, customer-centric decision-making is crucial for
 
 - **Understand Customer Profiles:** Segment customers based on demographic, geographic, and financial behavior indicators.  
 - **Perform Financial Product Analysis:** Analyze usage patterns across credit cards, loans, deposits, and other financial instruments.  
-- **Identify High-Risk Customers:** Use the *Risk Weighting* variable to analyze and visualize customer segments with potentially higher default or fraud risks.  
+- **Identify High-Risk Customers:** Use the Risk Weighting variable to analyze and visualize customer segments with potentially higher default or fraud risks.  
 - **Loyalty & Profitability Assessment:** Evaluate the relationship between loyalty classifications and financial engagement.  
 - **Support Strategic Decisions:** Enable data-driven marketing, credit allocation, and risk management through dashboards and reports.
 
@@ -41,6 +41,8 @@ This multidimensional dataset supports both descriptive and inferential analysis
 - Inspected the table structure and performed data validation checks after importing from Excel.
 - Renamed a column with special characters caused by encoding issues during import, ensuring consistency for analysis.
 - Used SQL Server as the central repository to organize and prepare the data for downstream tasks.
+- Uncovered high-value clients by analyzing top deposits, segmented customers by loyalty tiers, and evaluated average loan distribution across risk weightings to assess financial engagement and exposure.
+- Identified clients with high credit card balances and ranked branches by total deposits to support credit risk management and branch-level performance tracking.
 - Enabled data extraction for Python-based analysis and also powered live data connections for Power BI dashboards.
 
 ### Python (Jupyter Notebook)
