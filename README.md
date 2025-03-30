@@ -1,7 +1,7 @@
-Banking_customer_analytics_pipeline (End-to-End Project)
+# Banking_customer_analytics_pipeline (End-to-End Project)
 
-📜 License & Acknowledgment
-This repository is maintained by Chiranjeevi Dhanala.
-Feel free to explore, learn, and contribute!
+### 📜 License & Acknowledgment  
+This repository is maintained by **[Chiranjeevi Dhanala](https://github.com/Chirudc)**.  
+Feel free to explore, learn, and contribute!  
 
-📌 All projects are open-source and available for educational purposes.
+📌 **All projects are open-source and available for educational purposes.** 
