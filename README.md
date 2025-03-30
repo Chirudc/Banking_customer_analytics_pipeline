@@ -75,16 +75,16 @@ Histograms and boxplots of income, savings, loans to identify trends and outlier
 - Structured across **four pages**:
 
 ### Home – Total clients, loans, deposits, checking/savings/business lending accounts  
-![Home Page](images/powerbi_home.png)
+![Home Page](https://github.com/Chirudc/banking_customer_analytics_pipeline/blob/main/Banking%20Dashboard%20end%20to%20end%20Project/Power%20BI%20Dashboard/1.png)
 
 ### Loan Analysis - Detailed breakdowns of loan amounts by banking relationship, income band, top nationalities, and engagement years 
-![Loan Analysis](images/powerbi_loan_analysis.png)
+![Loan Analysis](https://github.com/Chirudc/banking_customer_analytics_pipeline/blob/main/Banking%20Dashboard%20end%20to%20end%20Project/Power%20BI%20Dashboard/2.png)
 
 ### Deposit Analysis - Detailed breakdowns of deposit amounts by banking relationship, income band, top nationalities, and Occupations 
-![Deposit Analysis](images/powerbi_deposit_analysis.png)
+![Deposit Analysis](https://github.com/Chirudc/banking_customer_analytics_pipeline/blob/main/Banking%20Dashboard%20end%20to%20end%20Project/Power%20BI%20Dashboard/3.png)
 
 ### Summary - Full overview including credit card amounts, foreign currency balances, fees, and engagement metrics  
-![Summary Page](images/powerbi_summary.png)
+![Summary Page](https://github.com/Chirudc/banking_customer_analytics_pipeline/blob/main/Banking%20Dashboard%20end%20to%20end%20Project/Power%20BI%20Dashboard/4.png)
 
 - Included dynamic filters for **Joining Year**, **Gender**, **Banking Relationship**, and **Investment Advisor**.
 - Delivered user-friendly navigation and clear iconography, enabling executives and analysts to explore key metrics quickly and independently.
