@@ -33,7 +33,7 @@ This multidimensional dataset supports both descriptive and inferential analysis
 ## Tools and Methodologies Used
 
 ### Excel
-- Used for initial inspection, cleaning, and enrichment.
+- Used for initial inspection, cleaning, V-lookup for cross validation and enrichment.
 - Handled formatting, validation, and ensured the dataset was clean before importing into SQL Server.
 
 ### SQL
